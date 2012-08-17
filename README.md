@@ -1,0 +1,4 @@
+heads
+=====
+
+Headline generator
