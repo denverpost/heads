@@ -1,0 +1,9 @@
+1 - really bad shit that can happen to things
+2 - somewhat bad shit that can happen to things
+3 - only slightly bad shit that can happen to things
+4 - good shit that can happen to things
+5 - good shit that can happen to people
+6 - bad shit that can happen to people
+7 - really bad shit that can happen to people
+
+* - all verbs designed to be followed by the partile 'by'
